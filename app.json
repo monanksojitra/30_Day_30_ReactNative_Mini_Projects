@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "React-Native",
-    "slug": "React-Native",
+    "name": "AwesomeProject",
+    "slug": "AwesomeProject",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
