@@ -13,6 +13,8 @@ npm install
 # Start Expo development server
 expo start
 
+```
+
 Easy-Peasy Level:
 👋 Hello World App: Yep, we're saying 'Hi' to the app world!
 ✅ ToDo List: For when life needs a little organizing.
